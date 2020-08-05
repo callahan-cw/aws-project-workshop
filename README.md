@@ -1,2 +1,2 @@
-# aws-project-workshop
-My r
+# AWS project workshop
+My public repo for AWS projects
